@@ -30,7 +30,7 @@ Core Steps:
 <######################################################### VARIABLES ######################################################################>
 
 #StorageAccount Name
-$STGACC = "cf-resourceinventory-wolff"
+$STGACC = "cf-resourceinventory"
 
 #Container Name
 $STGCTG = 'resourceinventory'
